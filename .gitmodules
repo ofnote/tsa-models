@@ -1,0 +1,4 @@
+[submodule "pytorch-pretrained-BERT"]
+	path = pytorch-pretrained-BERT
+	url = https://github.com/ofnote/pytorch-pretrained-BERT
+	branch = master
